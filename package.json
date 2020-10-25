@@ -1,0 +1,19 @@
+{
+  "name": "@omoearth/o-friends",
+  "version": "0.0.1",
+  "description": "friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omoearth/o-friends.git"
+  },
+  "author": "Omo Earth",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/omoearth/o-friends/issues"
+  },
+  "homepage": "https://github.com/omoearth/o-friends#readme"
+}
