@@ -15,7 +15,7 @@
       {
         "child": {
           "type": "Molecule",
-          "viewName": "FriendsIntro"
+          "viewName": "FriendsOverview"
         },
         "args": {
           "area": "main"
